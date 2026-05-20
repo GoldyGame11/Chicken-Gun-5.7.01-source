@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mini_sedanWeakDevice
+  m_Shader: {fileID: 4800000, guid: 0b5028a38536c06419b4042fb4a68237, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 73d87443071c3ed41bb631b91f5b55f8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _Cutoff: 0.5
+      _Gloss: 0.5
+      _Reflection1Force: 0.375
+      _Reflection2Force: 0.80357146
+      _SpecularForce: 1.3392857
+    m_Colors:
+      _CarColor: {r: 0, g: 0.75301445, b: 0.8301887, a: 1}
+      _Color: {r: 0.9056604, g: 0.8834461, b: 0.8834461, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 0
